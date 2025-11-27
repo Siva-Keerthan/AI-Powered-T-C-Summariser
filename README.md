@@ -1,0 +1,4 @@
+﻿# T-C-summarizer
+
+![WhatsApp Image 2025-10-04 at 13 00 34_cb9c7118](https://github.com/user-attachments/assets/1d73290b-89c1-4b20-a44a-af1b6997e5bc)
+![WhatsApp Image 2025-10-04 at 13 00 35_2ade148f](https://github.com/user-attachments/assets/37a8fec7-f22e-41f5-ad10-d490d0c7ea3b)
